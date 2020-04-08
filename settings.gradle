@@ -1,0 +1,8 @@
+rootProject.name = 'MPP_ClientServerTeledon'
+include 'TeledonModel'
+include 'TeledonRepo'
+include 'TeledonService'
+include 'TeledonClient'
+include 'TeledonServer'
+include 'Networking'
+

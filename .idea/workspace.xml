@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc0b75a5-dce2-43e4-bd41-b317ae15c195" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Networking">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_ClientServerTeledon" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_ClientServerTeledon" type="f1a62948:ProjectNode" />
+                <item name="Networking" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_ClientServerTeledon" type="f1a62948:ProjectNode" />
+                <item name="Networking" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MPP_ClientServerTeledon" type="f1a62948:ProjectNode" />
+                <item name="Networking" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZobRSTadXOshW2slyp0B4FlN9t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TeledonClient/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sonia\IdeaProjects\MPP_ClientServerTeledon\TeledonClient\src\main\resources" />
+      <recent name="C:\Users\sonia\IdeaProjects\MPP_ClientServerTeledon\TeledonClient\src\main\java" />
+      <recent name="C:\Users\sonia\IdeaProjects\MPP_ClientServerTeledon\TeledonServer\src\main\resources" />
+      <recent name="C:\Users\sonia\IdeaProjects\MPP_ClientServerTeledon\TeledonService\src\main\java" />
+      <recent name="C:\Users\sonia\IdeaProjects\MPP_ClientServerTeledon\TeledonRepo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartClient">
+    <configuration name="StartClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartClient" />
+      <module name="MPP_ClientServerTeledon.TeledonClient.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartServer" />
+      <module name="MPP_ClientServerTeledon.TeledonServer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MPP_ClientServerTeledon [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" singleton="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MPP_ClientServerTeledon:Networking [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Networking" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartClient" />
+      <item itemvalue="Application.StartServer" />
+      <item itemvalue="Gradle.MPP_ClientServerTeledon [dependencies]" />
+      <item itemvalue="Gradle.MPP_ClientServerTeledon:Networking [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartClient" />
+        <item itemvalue="Application.StartServer" />
+        <item itemvalue="Gradle.MPP_ClientServerTeledon [dependencies]" />
+        <item itemvalue="Gradle.MPP_ClientServerTeledon:Networking [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mpp" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@48eb1ab" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc0b75a5-dce2-43e4-bd41-b317ae15c195" name="Default Changelist" comment="" />
+      <created>1585508385402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585508385402</updated>
+      <workItem from="1585508389130" duration="5836000" />
+      <workItem from="1585514251248" duration="800000" />
+      <workItem from="1585565921226" duration="12267000" />
+      <workItem from="1585651438660" duration="6295000" />
+      <workItem from="1585664553298" duration="8408000" />
+      <workItem from="1585737146648" duration="3086000" />
+      <workItem from="1585771689707" duration="861000" />
+      <workItem from="1585804080201" duration="1666000" />
+      <workItem from="1586021977379" duration="123000" />
+      <workItem from="1586022125230" duration="3261000" />
+      <workItem from="1586203695375" duration="122000" />
+      <workItem from="1586203846450" duration="4449000" />
+      <workItem from="1586253682605" duration="3076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="0" key="#Illuminated_Cloud" timestamp="1586253743555">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="0" key="#Illuminated_Cloud/0.0.1280.680@0.0.1280.680" timestamp="1586253743555" />
+    <state x="233" y="0" key="#Notifications" timestamp="1585651491629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1585651491629" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1585514604032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585514604032" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585668426854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585668426854" />
+    <state x="460" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1585737396346">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="460" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585737396346" />
+    <state x="641" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586022037156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="641" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1586022037156" />
+    <state x="100" y="99" key="FileChooserDialogImpl" timestamp="1585668417384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585668417384" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom" timestamp="1585806062770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585806062770" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center" timestamp="1585806062770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585806062770" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left" timestamp="1585806062770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585806062770" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right" timestamp="1585806062770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585806062770" />
+    <state width="1237" height="292" key="GridCell.Tab.1.bottom" timestamp="1585657745028">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="292" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585657745028" />
+    <state width="1237" height="292" key="GridCell.Tab.1.center" timestamp="1585657745027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="292" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585657745027" />
+    <state width="1237" height="292" key="GridCell.Tab.1.left" timestamp="1585657745027">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="292" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585657745027" />
+    <state width="1237" height="292" key="GridCell.Tab.1.right" timestamp="1585657745028">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="292" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585657745028" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585509314048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585509314048" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585571803201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585571803201" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Networking/src/main/java/networkUtils/ClientWorker.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

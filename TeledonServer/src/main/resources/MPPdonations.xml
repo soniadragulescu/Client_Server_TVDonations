@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+http://www.springframework.org/schema/beans ">
+    <util:properties id="jdbcUtils" location="classpath:teledonserver.properties"/>
+
+    <bean id="donorRepo" class="repos.DonorRepository">
+        <constructor-arg ref="jdbcUtils"/>
+    </bean>
+
+    <bean id="caseRepo" class="repos.CaseRepository">
+        <constructor-arg ref="jdbcUtils"/>
+    </bean>
+
+    <bean id="volunteerRepo" class="repos.VolunteerRepository">
+        <constructor-arg ref="jdbcUtils"/>
+    </bean>
+
+    <bean id="donationRepo" class="repos.DonationRepository">
+        <constructor-arg ref="jdbcUtils"/>
+    </bean>
+
+    <bean id="volunteerService" class="service.VolunteerService">
+        <constructor-arg ref="volunteerRepo"/>
+    </bean>
+
+    <bean id="donationService" class="service.DonationService">
+        <constructor-arg ref="donorRepo"/>
+        <constructor-arg ref="caseRepo"/>
+        <constructor-arg ref="donationRepo"/>
+    </bean>
+</beans>
