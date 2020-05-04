@@ -5,7 +5,6 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
-import networkUtils.ProxyService;
 import service.ITeledonService;
 
 import java.io.IOException;
@@ -43,7 +42,7 @@ public class StartClient extends Application {
         }
         System.out.println("Using server IP "+serverIP);
         System.out.println("Using server port "+serverPort);
-        ITeledonService server=new ProxyService(serverIP,serverPort);
+        ITeledonService server=new ProtoProxy(serverIP,serverPort);
 
         FXMLLoader loader=new FXMLLoader();
         loader.setLocation(StartClient.class.getResource("/views/LoginView.fxml"));

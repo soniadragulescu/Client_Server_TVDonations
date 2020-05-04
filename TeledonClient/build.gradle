@@ -15,6 +15,6 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile project (':TeledonModel')
     compile project (':TeledonService')
-    compile project (':Networking')
+    compile project (':proto')
 
 }

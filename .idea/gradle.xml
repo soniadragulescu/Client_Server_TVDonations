@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/TeledonRepo" />
             <option value="$PROJECT_DIR$/TeledonServer" />
             <option value="$PROJECT_DIR$/TeledonService" />
+            <option value="$PROJECT_DIR$/proto" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

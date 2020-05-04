@@ -5,4 +5,5 @@ include 'TeledonService'
 include 'TeledonClient'
 include 'TeledonServer'
 include 'Networking'
+include 'proto'
 
